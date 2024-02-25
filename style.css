@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+font-family: sans-serif;
+font-size: 16px;
+background-color :rgb(237, 240, 140);
+}
+header {
+    background-color:dimgray ;
+    padding: 1%;
+} 
+header img {
+ border-radius:50% ;
+ border:3px black double;
+ margin-left: 10%;
+}
+nav a {
+text-decoration: none;
+color: rgb(41, 153, 217);
+width: 20%;
+margin-left: 14%;
+}
+nav {
+    margin-top: 5%;
+    border:dimgray 5px groove;
+    border-radius: 20px;
+    padding:5%;
+}
+footer{
+    background-color: darkgoldenrod;
+    padding: 2%;
+    color: rgba(3, 73, 3, 0.836);
+}
+main {
+    color: rgb(18, 62, 183);
+}
